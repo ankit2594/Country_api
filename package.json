@@ -1,0 +1,21 @@
+{
+  "name": "Country",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "materialize": "^1.0.0",
+    "materialize-css": "^0.100.2",
+    "rxjs": "^5.5.5",
+    "sass": "^1.0.0-beta.4",
+    "scss": "^0.2.4"
+  }
+}
